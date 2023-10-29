@@ -21,7 +21,7 @@
             "icon": "Icons/Whitelist.png",
             "banner":"Icons/repo.logo.png",
             "path": "pkgs/KFD.whitelist.10.purekfd",
-            "screenshots":["Icons/Whitelist-screenshot.png"]
+            "screenshots":["icons/Whitelist-screenshot.png"]
         }
     ]
 }
