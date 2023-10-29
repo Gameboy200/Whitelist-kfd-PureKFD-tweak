@@ -3,12 +3,12 @@
     "repotype":"purekfdextended",
     "name": "GameBoi200 Repo",
     "description": "The GameBoi200",
-    "icon": "icons/repo.logo.png",
+    "icon": "Icons/repo.logo.png",
     "featured": [
         {
           "name": "KFD whitelist",
           "bundleid": "KFD.whitelist.10",
-          "banner": "icons/repo.logo.png"
+          "banner": "Icons/repo.logo.png" 
         },
     ],
     "packages": [
@@ -18,8 +18,8 @@
             "author": "GameBoi200",
             "description": "Whitelist but kfd, might not work",
             "version": "1.0",
-            "icon": "icons/Whitelist.png",
-            "banner":"icons/repo.logo.png",
+            "icon": "Icons/Whitelist.png",
+            "banner":"Icons/repo.logo.png",
             "path": "pkgs/KFD.whitelist.10.purekfd",
             "screenshots":["icons/Whitelist-screenshot.png"]
         }
