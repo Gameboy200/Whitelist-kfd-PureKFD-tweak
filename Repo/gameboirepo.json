@@ -8,7 +8,7 @@
         {
           "name": "KFD whitelist",
           "bundleid": "KFD.whitelist.10",
-          "banner": "Icons/repo.logo.png" 
+          "banner": "Icons/Whitelist.png" 
         },
     ],
     "packages": [
