@@ -20,7 +20,7 @@
             "version": "1.0",
             "icon": "Icons/Whitelist.png",
             "banner":"Icons/repo.logo.png",
-            "path": "pkgs/KFD.whitelist.10.purekfd",
+            "path": "pkgs/KFD.Whitelist.10.purekfd",
             "screenshots":["Icons/Whitelist-screenshot.png"]
         }
     ]
